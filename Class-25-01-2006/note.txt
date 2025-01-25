@@ -1,0 +1,17 @@
+1- Create UI
+2- Add Cdn
+Api Docs -> Guide -> Refrence -> Javascript
+<script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+
+3-Get Supabase anon/Public & Project Url
+Project Setting -> Api
+
+4- Desable email confirmation
+
+Authentication -> Provider -> email
+
+
+5- Create Function for login and signup
+
+6- Get Methods sor signup and login from Docs
+api docs -> Guide -> Auth -> Password Base
